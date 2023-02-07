@@ -1,4 +1,4 @@
-name: trns-learn
+name: trns-learn-env
 channels:
   - conda-forge
 dependencies:
